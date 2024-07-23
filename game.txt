@@ -1,0 +1,5 @@
+python -->  _ _ _ _ _ 
+
+Word
+we have to create dashes as per the number of words
+check function--
